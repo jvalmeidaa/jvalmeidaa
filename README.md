@@ -2,7 +2,7 @@
 
 **`Information Systems Student`**
 
-Me chamo João Vitor de Souza Almeida, tenho 19 anos e sou de Pitangueiras-SP. Sou apaixonado por programação, design e por como a tecnologia transforma o mundo. Adoro aprender novas ferramentas, criar projetos significativos e/ou colaborar com outras pessoas para resolver problemas reais. Meu objetivo é continuar evoluindo como desenvolvedor enquanto construo coisas que inspirem e façam a diferença.
+Information Systems student passionate about coding, design, and how technology shapes the world. I love learning new tools, creating meaningful projects, and collaborating with others to solve real-world problems. My goal is to keep growing as a developer while building things that inspire and make a difference.
 
 ### 📧 Contact Me!
 
