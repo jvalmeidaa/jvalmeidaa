@@ -1,4 +1,4 @@
-# João Vitor Almeida 🛹
+# João Vitor Almeida 
 
 **`Information Systems Student`**
 
