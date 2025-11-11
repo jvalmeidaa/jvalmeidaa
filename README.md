@@ -83,14 +83,6 @@ Information Systems student passionate about coding, design, and how technology 
     src="https://github-readme-stats.vercel.app/api?username=jvalmeidaa&show_icons=true&theme=dark"
 />
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"    
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvalmeidaa&stats_format=bytes&theme=dark"
-/>
-
 </p>
           
  
