@@ -7,15 +7,19 @@ Information Systems student passionate about coding, design, and how technology 
 ### 📧 Contact Me!
 
 <p align="left">
-    <a href="mailto:jooaovit.almeida@gmail.com">
+  <a href="mailto:jooaovit.almeida@gmail.com" target="_blank" style="outline:none;">
     <img alt="My Mail" title="Contact Me"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <a href="https://www.linkedin.com/in/joaovitor-almeida7/">
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/joaovitor-almeida7/" target="_blank" style="outline:none;">
     <img alt="My Linkedin" title="My Linkedin"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-    </a>
-
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
+
+
 
 ---
 
