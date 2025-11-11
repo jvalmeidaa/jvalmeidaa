@@ -6,19 +6,18 @@ Information Systems student passionate about coding, design, and how technology 
 
 ### 📧 Contact Me!
 
-<p align="left">
-  <a href="mailto:jooaovit.almeida@gmail.com" target="_blank" style="outline:none;">
+<p align="left" style="margin:0;padding:0;">
+  <a href="mailto:jooaovit.almeida@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0; padding:0; margin:0; display:inline-block; vertical-align:middle;">
     <img alt="My Mail" title="Contact Me"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      style="display:inline-block; vertical-align:middle; border:0; max-height:36px;"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/joaovitor-almeida7/" target="_blank" style="outline:none;">
+  <a href="https://www.linkedin.com/in/joaovitor-almeida7/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0; padding:0; margin:0; display:inline-block; vertical-align:middle;">
     <img alt="My Linkedin" title="My Linkedin"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      style="display:inline-block; vertical-align:middle; border:0; max-height:36px;"/>
   </a>
 </p>
-
-
 
 
 ---
