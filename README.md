@@ -1,30 +1,19 @@
-# João Vitor Almeida 
-
-**`Information Systems Student`**
+# 💻 João Vitor Almeida  
 
 # 📝 About Me
 
-Information Systems student passionate about coding, design, and how technology shapes the world. I love learning new tools, creating meaningful projects, and collaborating with others to solve real-world problems. My goal is to keep growing as a developer while building things that inspire and make a difference.
+*Information Systems student passionate about coding, design, and how technology shapes the world. I love learning new tools, creating meaningful projects, and collaborating with others to solve real-world problems. My goal is to keep growing as a developer while building things that inspire and make a difference.*
 
-### 📧 Contact Me!
+## 📧 Contact Me!
 
-<p align="left" style="margin:0;padding:0;">
-  <a href="mailto:jooaovit.almeida@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0; padding:0; margin:0; display:inline-block; vertical-align:middle;">
-    <img alt="My Mail" title="Contact Me"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      style="display:inline-block; vertical-align:middle; border:0; max-height:36px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joaovitor-almeida7/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0; padding:0; margin:0; display:inline-block; vertical-align:middle;">
-    <img alt="My Linkedin" title="My Linkedin"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      style="display:inline-block; vertical-align:middle; border:0; max-height:36px;"/>
-  </a>
+<p align="left">
+  <a href="mailto:jooaovit.almeida@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="My Mail" title="Contact Me" border="0" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joaovitor-almeida7/" target="_blank" rel="noopener noreferrer"><img alt="My Linkedin" title="My Linkedin" border="0" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
 
 ---
 
-### 🧠 I'm currently learning:
+# 🧠 I'm currently learning:
 
 <img
     align="left"
@@ -55,20 +44,47 @@ Information Systems student passionate about coding, design, and how technology 
 
 <img
     align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-
-<img
-    align="left"
     alt="Python"
     title="Python"
     width="30px"
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+    align="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+
+<img
+    align="left"
+    alt="SQL Server"
+    title="SQL Server"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+/>
+
+<img
+    align="left"
+    alt="PyCharm"
+    title="PyCharm"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
 />
 
 <br/>
