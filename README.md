@@ -2,6 +2,8 @@
 
 **`Information Systems Student`**
 
+# 📝 About Me
+
 Information Systems student passionate about coding, design, and how technology shapes the world. I love learning new tools, creating meaningful projects, and collaborating with others to solve real-world problems. My goal is to keep growing as a developer while building things that inspire and make a difference.
 
 ### 📧 Contact Me!
@@ -72,17 +74,19 @@ Information Systems student passionate about coding, design, and how technology 
 <br/>
 <br/>
 
-### 📊 Stats
+# 📊 Statistics
 
-<p>
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"    
-    src="https://github-readme-stats.vercel.app/api?username=jvalmeidaa&show_icons=true&theme=dark"
-/>
-
-</p>
-          
- 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=jvalmeidaa&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/KasRoudra/github-stats-card">
+          <img src="https://kasroudra-stats-card.onrender.com/user?user=jvalmeidaa&theme=midnight-purple&hcolor=9141ac" alt="github-stats-card"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
