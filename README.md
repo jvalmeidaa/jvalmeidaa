@@ -80,7 +80,7 @@ Information Systems student passionate about coding, design, and how technology 
   <table>
     <tr>
       <td valign="middle">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=jvalmeidaa&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com/?user=jvalmeidaa&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
       </td>
       <td valign="middle">
         <a href="https://github.com/KasRoudra/github-stats-card">
